@@ -90,7 +90,7 @@
 					<td>Father</td>
 					<td>7777777777</td>
 					<td>kdevarakonda@gmail.com</td>
-				</tr>
+				</tr> 
 			</tbody>
 		</table>
 	</body>
