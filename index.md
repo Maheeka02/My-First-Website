@@ -28,9 +28,9 @@
 
         <h4>Few of my works : </h4>
 		<!--Images-->
-		<img src="E:/Maheeka/Web dev/pics/pic1.jpg" width="150px;">
-		<img src="E:/Maheeka/Web dev/pics/pic2.jpeg" width="200px;">
-		<img src="E:/Maheeka/Web dev/pics/pic3.jpeg" width="200px;">
+		<img src="pic1.jpg" width="150px;">
+		<img src="pic2.jpeg" width="200px;">
+		<img src="pic3.jpeg" width="200px;">
 		
 		
 
